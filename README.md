@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hey there 👋 I'm Conor</h1>
-<h3 align="center">💻 Software Engineer | Ignition Core Certified | Lifelong Learner</h3>
+<h3 align="center">💻 Software Engineer | Ignition Core Certified | Systems Engineer</h3>
 
 <p align="center">
   <a href="mailto:conor.email@example.com"><img src="https://img.shields.io/badge/Email-Conor-blue?style=flat&logo=gmail"></a>
