@@ -16,7 +16,7 @@
 🎓 I'm a passionate Software Engineer with:
 
 - 🧠 5+ years of development experience  
-- 🛠️ 1.5+ years of **professional software engineering**  
+- 🛠️ 2+ years of **professional software engineering**  
 - 🎓 Foundation Degree in Software Development  
 - 📘 Currently pursuing a **Bachelor's in Software Engineering**
 
