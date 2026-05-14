@@ -6,7 +6,7 @@
   <a href="mailto:conor.email@example.com"><img src="https://img.shields.io/badge/Email-Conor-blue?style=flat&logo=gmail"></a>
   <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/conorboycese/)"><img src="https://img.shields.io/badge/LinkedIn-Conor-blue?style=flat&logo=linkedin"></a>
   <img src="https://img.shields.io/badge/Experience-5+_Years-brightgreen?style=flat">
-  <img src="https://img.shields.io/badge/Certified-Ignition_Core-orange?style=flat">
+  <img src="https://img.shields.io/badge/Certified-Ignition_Gold-orange?style=flat">
 </p>
 
 ---
@@ -17,8 +17,8 @@
 
 - 🧠 5+ years of development experience  
 - 🛠️ 2+ years of **professional software engineering**  
-- 🎓 Foundation Degree in Software Development  
-- 📘 Currently pursuing a **Bachelor's in Software Engineering**
+- 🎓 Foundation Degree in (**FdSc**) **Software Development**  
+- 📘 Bachelor Degree in (**BEng**) **Software Engineering**
 
 Always learning, always building.
 
@@ -46,7 +46,7 @@ Always learning, always building.
 
 - 🎓 Completing my **Bachelor's in Software Engineering**
 - ⚙️ Building industrial/automation apps using **Ignition**
-- 💡 Exploring clean architecture & scalable systems
+- 💡 Building personal projects to be released within portfolio
 
 ---
 
@@ -64,7 +64,7 @@ Always learning, always building.
 <p align="center">
   <a href="mailto:conor.email@example.com">📧 Email</a> • 
   <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/conorboycese/)">🔗 LinkedIn</a> • 
-  <a href="https://your-portfolio.com">🌐 Portfolio</a>
+  <a href="https://k4wnr.github.io">🌐 Portfolio</a>
 </p>
 
 ---
