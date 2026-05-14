@@ -63,7 +63,7 @@ Always learning, always building.
 
 <p align="center">
   <a href="mailto:conor.email@example.com">📧 Email</a> • 
-  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/conorboycese/)">🔗 LinkedIn</a> • 
+  <a href="https://www.linkedin.com/in/conorboycese/">🔗 LinkedIn</a> • 
   <a href="https://k4wnr.github.io">🌐 Portfolio</a>
 </p>
 
