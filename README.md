@@ -1,9 +1,8 @@
 <!-- Profile Header -->
 <h1 align="center">Hey there 👋 I'm Conor</h1>
-<h3 align="center">💻 Software Engineer | Ignition Gold Certified | Systems Engineer</h3>
+<h3 align="center">💻 Software & Systems Engineer | Ignition Gold Certified</h3>
 
 <p align="center">
-  <a href="mailto:conor.email@example.com"><img src="https://img.shields.io/badge/Email-Conor-blue?style=flat&logo=gmail"></a>
   <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/conorboycese/)"><img src="https://img.shields.io/badge/LinkedIn-Conor-blue?style=flat&logo=linkedin"></a>
   <img src="https://img.shields.io/badge/Experience-5+_Years-brightgreen?style=flat">
   <img src="https://img.shields.io/badge/Certified-Ignition_Gold-orange?style=flat">
@@ -44,16 +43,18 @@ Always learning, always building.
 
 ## 🔭 Current Focus
 
-- 🎓 Completing my **Bachelor's in Software Engineering**
-- ⚙️ Building industrial/automation apps using **Ignition**
-- 💡 Building personal projects to be released within portfolio
+- 🌍 Preparing portfolio-ready applications for public release
+- 📈 Growing through hands-on experience in **professional software engineering environments**
+- ⚙️ Developing **industrial automation solutions** using Ignition
+- 🏗️ Building software projects that solve **real-world engineering problems**
+- 🧠 Strengthening my knowledge of **software architecture** & **system design**
+- 📚 Continuously learning modern tools, frameworks & development best practices
 
 ---
 
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:conor.email@example.com">📧 Email</a> • 
   <a href="https://www.linkedin.com/in/conorboycese/">🔗 LinkedIn</a> • 
   <a href="https://k4wnr.github.io">🌐 Portfolio</a>
 </p>
